@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.banner{
+    background-image: url("image/marvel-bg.jpeg");
+    background-color: cyan;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+    
+}
+
+.card{
+    display: inline-block;
+    background-color: lightyellow;
+    width: 150px;
+    margin: 10px;
+    border: 3px solid lightyellow;
+    border-radius: 15%;
+    padding: 10px;
+    
+}
